@@ -8,4 +8,4 @@ numpy
 scipy
 scikit-learn
 matplotlib
-pandas>=0.19
+pandas
